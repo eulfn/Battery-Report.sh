@@ -1,7 +1,6 @@
 #!/bin/sh
-# or use: #!/bin/bash if running in a generic Android shell
 
-# 🔋 Battery Health Report (POSIX Edition)
+clear
 
 now() {
   date '+%Y-%m-%d %H:%M:%S'
