@@ -1,4 +1,4 @@
-# 🔋 battery-report.sh
+#  battery-report.sh
 
 A snappy POSIX shell script for Android that prints a clean, detailed battery health report using only non-root commands. Works great in Termux, BusyBox, or any Android shell with `dumpsys`.
 
@@ -53,4 +53,4 @@ Tech    : Li-ion
 - If you get errors, make sure `dumpsys` is available and you have permission to run it.
 
 ---
-Made for devs who like it short, sweet, and to the point. 
+Don't Forget To Add As Star!
